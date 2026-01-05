@@ -1,16 +1,16 @@
 {
   "app": {
-    "version": "2.1.0",
-    "setup_url": "https://github.com/Zaid-Marfani/Scrapper/releases/download/stable/ScrapperSetup.exe"
+    "version": "2.3.0",
+    "setup_url": "https://github.com/Zaid-Marfani/Scrapper-Config/releases/download/stable/ScrapperSetup.exe"
   },
 
   "excel": {
     "version": "1.10.0",
-    "template_url": "https://raw.githubusercontent.com/Zaid-Marfani/Scrapper/main/assets/Purchase%20list.xlsm"
+    "template_url": "https://github.com/Zaid-Marfani/Scrapper-Config/releases/download/stable/Purchase.list.xlsm"
   },
 
   "shipping_lines": {
     "version": "1.3.0",
-    "shipping_url": "https://raw.githubusercontent.com/Zaid-Marfani/Scrapper/refs/heads/main/Scrapper-Config/shipping_lines.json"
+    "shipping_url": "https://raw.githubusercontent.com/Zaid-Marfani/Scrapper-Config/refs/heads/main/shipping_lines.json"
   }
 }
